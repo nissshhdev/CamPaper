@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CamPaper</string>
+    <string name="wallpaper_label">CamPaper Live Wallpaper</string>
+    <string name="wallpaper_description">Dynamic cinema-grade live wallpaper with custom crop and loop range controls.</string>
+</resources>
